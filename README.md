@@ -6,7 +6,7 @@ Index:
 4.	Reference
 5.	Improvements
 Introduction:
-This project is to implement the Tic-Tac-Toe game. It is designed with HTML, CSS, and JavaScript. The application easily opens on the browser. JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.
+jksdhkjsdhjksklakt the Tic-Tac-Toe game. It is designed with HTML, CSS, and JavaScript. The application easily opens on the browser. JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.
 The project is to implement the Tic-Tac-Toe game which will features like
 •	Single player mode (against computer i.e. AI)
 •	Two player mode (against human competitor)
