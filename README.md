@@ -11,7 +11,7 @@ The project is to implement the Tic-Tac-Toe game which will features like
 •	Single player mode (against computer i.e. AI)
 •	Two player mode (against human competitor)
 In single player mode, game theory logics like minimax algorithms are used to determine the best move that the computer plays.
-To play the game, just click on – https://ketan-0900.github.io/Tik-Tak-Toe/
+To play the game, just click on – https://harshit105.github.io/TicTakToe/
 Github Link- https://github.com/harshit105/TicTakToe
 Algorithm:
 First of all we need to implement the best move logic for the computer to play in single player mode. As already stated we have used minimax algorithms to determine the best move. 
